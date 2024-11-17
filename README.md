@@ -2,7 +2,7 @@
 
 A desktop implementation of the popular word-guessing game Wordle, built with Python and Tkinter.
 
-![Wordle Game Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/717df9e1-1633-452e-a5cd-642b95378211)
 
 ## Features
 
